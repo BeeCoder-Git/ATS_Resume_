@@ -1,7 +1,3 @@
-Here’s a clean and informative `README.md` for your **ATS Resume Checker** project using **Streamlit** and **Gemini API**:
-
----
-
 # 🧠 ATS Resume Checker
 
 A powerful web application built using **Streamlit** and **Google Gemini Pro API** that helps job seekers analyze their resume against any job description. The app simulates the behavior of an **HR Professional**, **Technical Mentor**, and **ATS Scanner** to evaluate resumes, suggest improvements, and estimate job-fit percentage.
